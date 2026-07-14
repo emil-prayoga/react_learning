@@ -91,7 +91,6 @@ function ToDoList() {
     });
     
     useEffect(() => {
-        console.log(dark);
         if (dark) {
             document.documentElement.classList.add("dark");
             localStorage.setItem("theme", "dark");
