@@ -93,14 +93,6 @@ npm run dev
 
 ---
 
-## 📸 Preview
-
-<img width="100%" alt="Preview" src="preview.png">
-
-> Replace `preview.png` with your own screenshot.
-
----
-
 ## 🎯 Learning Outcomes
 
 During this project I learned how to:
